@@ -1,0 +1,4 @@
+TO RUN JUPYTER IN BROWSER.
+1. Open cmd
+2. python -m notebook
+2. jupyter -m notebook
